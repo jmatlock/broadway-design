@@ -13,7 +13,8 @@ body {
   font-weight: bold;
 }
 
-.header a {
+.header a,
+.footer a {
   font-size: 18px;
   color: white;
 }
